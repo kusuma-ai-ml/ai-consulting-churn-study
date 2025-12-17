@@ -29,4 +29,4 @@ The outcome of this study will be an evidence-based recommendation on:
 - Key limitations and next steps for a potential production rollout
 ## 6. Data Overview
  The dataset contains customer demographic information, service usage details,contract characteristics,
- and a binary churn indicator representing whether a customer left the service
+ and a binary churn indicator representing whether a customer left the service.
