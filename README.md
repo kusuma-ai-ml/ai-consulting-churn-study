@@ -30,3 +30,10 @@ The outcome of this study will be an evidence-based recommendation on:
 ## 6. Data Overview
  The dataset contains customer demographic information, service usage details,contract characteristics,
  and a binary churn indicator representing whether a customer left the service.
+## 7. Current Progress
+- Completed exploratory data analysis (EDA)
+- Identified key churn drivers:
+  - Contract type
+  - Tenure
+  - Monthly charges
+- Derived business insights aligned with retention strategy
